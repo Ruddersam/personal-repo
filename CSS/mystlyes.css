@@ -1,0 +1,99 @@
+*{
+    box-sizing: border-box;
+    padding-top: 20px;
+}
+body{
+    background-color: rgb(235, 235, 235);
+}
+.page{
+    background-color: white;
+    position:static;
+    width: 60vw;
+    height: 50vh;
+    margin: 100px auto;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 25px;
+    padding-top: 15px;
+}
+img{
+    height: 65px;
+    padding-left: 30px;
+}
+h2{
+    text-decoration: none;
+    margin-top: -1px;
+    padding-left: 30px;
+    font-size: 35px;
+    font-style:normal;
+    font-weight:500;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.message{
+    margin-top: -25px;
+    padding-left: 30px;
+    font-style: normal;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+form{
+    text-align: right;
+    padding-right: 25px;
+    margin-top:-110px ;
+}
+input{
+    border-radius: 5px;
+    padding: 10px;
+    height: 45px;
+    width: 450px;
+}
+.forgot{
+    color: blue;
+    margin-top: -12px;
+    text-align: right;
+    font-weight: 1000;
+    padding-right: 383px;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: normal;
+    font-size: smaller;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: block;
+}
+.comp{
+    margin-top: 10px;
+    padding-right: 75px;
+    font-size: small;
+    font-weight: 500;
+    display: block;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: right;
+}
+.learn{
+    color: blue;
+    font-weight: 500;
+    text-decoration: none;
+}
+.create{
+    margin-top: 27px;
+    padding-right: 155px;
+    display: block;
+    color: blue;
+    text-align: right;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: small;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.next{
+    padding-block: 10px;
+    color: rgb(18, 11, 214);
+    margin-top: -37.5px;
+    display:block;
+    text-align:right;
+    border-radius: 20px;
+        text-decoration: none;
+        font-weight: 500;
+        font-size: small;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        
+}
